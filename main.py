@@ -3,9 +3,9 @@ from os import environ
 from telethon import TelegramClient, events, Button
 from functions import *
 
-API_ID = environ.get('API_ID')
-API_HASH = environ.get('API_HASH')
-BOT_TOKEN = environ.get('BOT_TOKEN')
+API_ID = environ.get('25595324')
+API_HASH = environ.get('0102b3dbf501dc0fb3176d4c9685eec8')
+BOT_TOKEN = environ.get('6823492165:AAG_KFz9D4Siyil1x_Rjqkijbe-2sGOo67g')
 
 TEXT_BYTE_LIMIT = 300
 AUDIO_FORMAT = 'mp3'
